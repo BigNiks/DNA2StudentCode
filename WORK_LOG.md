@@ -1,9 +1,10 @@
-Name: YOUR NAME HERE
+Name: Niko Madriz
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date   |     Time      |                                                                                                                                                                                                                                                                                                                                                                                                     Update |
+|:-------|:-------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Oct 8  |   3:30-4 PM   |                                                                                                                                                                            I am currently thinking of ways to approach this problem. I first thought of using hashmaps. Although I can see a way we could probably solve this problem using it, I know for a fact that it is going to be very inefficient. |
+| Oct 10 | 12:40-1:45 PM | I have thought of a couple different ways to approach this problem, but I still don't think I've found an efficient solution. I thought about assigning every character their own specific numerical value, and calculating the expected amount with the total amount. This process to me just seems like an iterative approach with extra steps so I botched that idea after working through it on paper. |
+| Oct 12 |    5-6 PM     |                                                                     I have decided to try and go back to thinking about hashmaps and I've been trying to work through some solutions on paper. I overheard Mr. Blick talk about something called hashing which I'm sure we will learn about more later. I am going to refrain from doing an research on hashing and continue to try and solve this my way. |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
